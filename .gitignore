@@ -1,0 +1,6 @@
+# MATLAB
+*.asv
+*.autosave
+slprj/
+*.fig
+*.mex*
