@@ -1,5 +1,5 @@
-% Script para Analizar y Promediar Datos de Potencia de Escenarios LOS y NLOS
-% Se utiliza la interpolación a una grilla de distancia común antes de promediar
+% Script para Analizar Datos de Potencia de Escenarios LOS y NLOS
+% Se utiliza la interpolación a una grilla de distancia común.
 % para evitar el cruce de datos por diferentes velocidades de muestreo.
 clc;
 clear;
